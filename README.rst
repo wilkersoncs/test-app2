@@ -1,4 +1,4 @@
-TurnKey Core - Common Base for All Appliances
+vTimeCapsule - Apple File server recognized as TimeMachine drive
 =============================================
 
 The common base system on top of which all TurnKey Linux appliances are
